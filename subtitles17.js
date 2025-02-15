@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:02.240 --> 00:05.020\nConsider yourself in this real-world situation.\n\n00:05.520 --> 00:09.640\nYou\'ve traveled to St. Paul, Minnesota for a Financial Edge NXT\n\n00:09.800 --> 00:12.820\nthree day on site training for a private school.\n\n00:13.200 --> 00:17.180\nYou have just arrived early to the training site to set up your equipment.\n\n00:17.520 --> 00:21.400\nOne of the students, Sally, has arrived early as well and\n\n00:21.440 --> 00:24.904\nstarts talking to you about how many years she has used Financial\n\n00:24.992 --> 00:28.240\nEdge NXT at another organization and\n\n00:28.280 --> 00:31.620\nalready knows all there is to know about the software.\n\n00:32.040 --> 00:35.152\nThe training begins and each time you ask a question to\n\n00:35.176 --> 00:39.020\nthe group, Sally calls out the answer without raising her hand.\n\n00:39.560 --> 00:42.928\nDuring one of your demos in the software, Sally tells\n\n00:42.944 --> 00:46.688\nyou that you are \"doing it wrong\" and says she knows the right\n\n00:46.744 --> 00:48.160\nway to complete the task.\n\n"
+		};
+	window["st_{5D65124F-85D6-488F-AE9C-012DD71E81D3}"]?.("sndAsset17", subtitles);
+})();

@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:02.160 --> 00:05.368\nNow that you are aware of the common concerns students might have around\n\n00:05.424 --> 00:09.000\nlearning new software, let\'s look at the types of disruptions that\n\n00:09.040 --> 00:11.660\nmay come through because of those strong emotions.\n\n00:12.080 --> 00:16.040\nWe will cover five types of disruptive learners that you might encounter\n\n00:16.120 --> 00:19.496\nin an in-person training setting. It is important\n\n00:19.568 --> 00:23.112\nto name them and describe them. Name them to tame\n\n00:23.176 --> 00:26.680\nthem. Once you can identify the type of disruptor,\n\n00:26.760 --> 00:30.312\nyou can utilize the tools and strategies to de-escalate and\n\n00:30.336 --> 00:33.732\nreturn attention back to the training. Here you\n\n00:33.756 --> 00:38.564\nsee the disruptive learner types, the Vacationer, the Dominator,\n\n00:38.692 --> 00:42.836\nthe Know-It-All, the Prisoner, and the Latecomer.\n\n00:43.028 --> 00:47.108\nAs we talk about each of them, consider your own personal experience with\n\n00:47.164 --> 00:48.980\neach of these disruptive learner types.\n\n"
+		};
+	window["st_{5D65124F-85D6-488F-AE9C-012DD71E81D3}"]?.("sndAsset3", subtitles);
+})();
